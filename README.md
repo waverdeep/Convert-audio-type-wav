@@ -1,5 +1,5 @@
 # Convert-audio-type-wav
-다른 특정한 음원 파일을 wav 확장자로 변경해주느 툴
+다른 특정한 음원 파일을 wav 확장자로 변경해주는 툴
 
 ## 파라미터 설명 (convert_audio_wav_16k)
 - input_dir : 음원파일이 위치하 디렉토리 경로를 작성
